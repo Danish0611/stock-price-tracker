@@ -1,0 +1,25 @@
+stock_id,ticker_symbol,company_name,sector,industry,date,open_price,close_price,high_price,low_price,volume
+1,AAPL,Apple Inc.,Technology,Consumer Electronics,01-01-2024,2500,2520,2530,2490,1500000
+1,AAPL,Apple Inc.,Technology,Consumer Electronics,02-01-2024,2520,2540,2550,2510,1600000
+1,AAPL,Apple Inc.,Technology,Consumer Electronics,01-08-2024,170,172.5,173,169,30000000
+1,AAPL,Apple Inc.,Technology,Consumer Electronics,02-08-2024,172,174,175,171.5,31000000
+2,MSFT,Microsoft Corporation,Technology,Software,01-01-2024,3500,3550,3560,3480,1800000
+2,MSFT,Microsoft Corporation,Technology,Software,02-01-2024,3550,3570,3580,3530,1750000
+2,MSFT,Microsoft Corporation,Technology,Software,01-08-2024,310,315.5,316,308.5,20000000
+3,GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,01-01-2024,1400,1420,1430,1390,1200000
+3,GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,02-01-2024,1420,1440,1450,1410,1250000
+3,GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,01-08-2024,2700,2750,2760,2680,1500000
+4,RELIANCE,Reliance Industries Limited,Energy,Oil & Gas,01-01-2024,1700,1720,1730,1690,1300000
+4,RELIANCE,Reliance Industries Limited,Energy,Oil & Gas,02-01-2024,1720,1740,1750,1710,1350000
+5,TCS,Tata Consultancy Services,Technology,IT Services,01-01-2024,2400,2420,2430,2390,1100000
+5,TCS,Tata Consultancy Services,Technology,IT Services,02-01-2024,2420,2440,2450,2410,1150000
+6,HDFCBANK,HDFC Bank Limited,Financials,Banking,01-01-2024,800,820,830,790,1000000
+6,HDFCBANK,HDFC Bank Limited,Financials,Banking,02-01-2024,820,840,850,810,1050000
+7,INFY,Infosys Limited,Technology,IT Services,01-01-2024,1900,1920,1930,1880,900000
+7,INFY,Infosys Limited,Technology,IT Services,02-01-2024,1920,1940,1950,1910,950000
+8,HINDUNILVR,Hindustan Unilever Limited,Consumer Goods,Personal Products,01-01-2024,500,520,530,490,1100000
+8,HINDUNILVR,Hindustan Unilever Limited,Consumer Goods,Personal Products,02-01-2024,520,540,550,510,1150000
+9,ICICIBANK,ICICI Bank Limited,Financials,Banking,01-01-2024,700,720,730,690,1000000
+9,ICICIBANK,ICICI Bank Limited,Financials,Banking,02-01-2024,720,740,750,710,1050000
+10,KOTAKBANK,Kotak Mahindra Bank,Financials,Banking,01-01-2024,300,320,330,290,900000
+10,KOTAKBANK,Kotak Mahindra Bank,Financials,Banking,02-01-2024,320,340,350,310,950000
